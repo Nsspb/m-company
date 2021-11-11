@@ -2,9 +2,11 @@
   "name": "m-company",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://Nsspb.github.io/m-company.git"
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
