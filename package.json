@@ -2,7 +2,7 @@
   "name": "m-company",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://Nsspb.github.io/m-company.git",
+  "homepage": "https://Nsspb.github.io/m-company",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
