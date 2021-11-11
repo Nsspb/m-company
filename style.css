@@ -32,7 +32,7 @@
 .topblock{
     border: 1px solid #DFE4F5;
     height: 186px;
-    width: 679px;
+    max-width: 679px;
     margin: 24px;
 
 }
