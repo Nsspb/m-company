@@ -12,10 +12,6 @@ check.forEach(item => item.addEventListener('click', function(){
 
 
 
-
-
-
-
 // всплывающий туллтип
 circle.addEventListener("mouseover", () => {
      visible.style.display ='flex'
